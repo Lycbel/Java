@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: edu.ncsu.csc326.coffeemaker.ITMain
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.137 sec <<< FAILURE!
+test(edu.ncsu.csc326.coffeemaker.ITMain)  Time elapsed: 1.131 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<1> but was:<>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at edu.ncsu.csc326.coffeemaker.ITMain.test(ITMain.java:45)
+
